@@ -51,24 +51,6 @@ Student-Management-System/
 
 ---
 
-## ▶️ How to Run the Project
-
-### 1️⃣ Install Dependencies
-pip install -r requirements.txt
-
-
-### 2️⃣ Start the Server
-uvicorn main:app --reload
-
-
-### 3️⃣ Open API Documentation
-After running the server, open:
-http://127.0.0.1:8000/docs
-
-This allows you to test API endpoints directly from the browser.
-
----
-
 ## 📖 What You Will Learn From This Project
 
 - How API calls are triggered
